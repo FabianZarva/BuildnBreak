@@ -1,6 +1,6 @@
 # Build & Break (Build N Break)
 
-Build & Break is an educational physics-based construction and structural simulation game developed in Unity (C#) for NHL Stenden. The project was created to help civil engineering students understand structural calculations, realistic load bearing, and material tolerances under severe environmental stressors.
+Build & Break is an educational physics-based construction and structural simulation game developed in Unity (C#). The project was created to help civil engineering students understand structural calculations, realistic load bearing, and material tolerances under severe environmental stressors.
 
 Players design and assemble structural frameworks using diverse construction materials, subject them to dynamic natural disasters such as high-velocity wind loads and rising floodwaters, and evaluate structural integrity through real-time collapse mechanics.
 
@@ -35,9 +35,3 @@ Players design and assemble structural frameworks using diverse construction mat
 * **Destruction Pipeline**: Open Fracture (procedural mesh fracturing and convex hull collider generation).
 * **Configuration Architecture**: Modular `ScriptableObjects` for material definitions and scenario stress profiles.
 * **Target Platform**: PC / Standalone Windows.
-
-                              |
-                              v
-       +---------------------------------------------+
-       |             Win / Lose Evaluator            |[cite: 3]
-       +---------------------------------------------+
