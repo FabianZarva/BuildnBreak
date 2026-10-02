@@ -1,0 +1,13 @@
+{
+  "name": "PavlosGame",
+  "references": [
+    "OpenFracture.Runtime",
+    "Unity.TextMeshPro"
+  ],
+  "optionalUnityReferences": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "autoReferenced": true
+}

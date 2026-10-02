@@ -1,0 +1,11 @@
+{
+  "name": "OpenFracture.Runtime",
+  "rootNamespace": "OpenFracture.Runtime",
+  "autoReferenced": true,
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "optionalUnityReferences": []
+}

@@ -1,0 +1,12 @@
+{
+  "name": "OpenFracture.Editor",
+  "autoReferenced": true,
+  "references": [
+    "OpenFracture.Runtime"
+  ],
+  "includePlatforms": [ "Editor" ],
+  "excludePlatforms": [],
+  "optionalUnityReferences": [],
+  "overrideReferences": false,
+  "allowUnsafeCode": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PavlosGame.Editor",
+  "references": [
+    "PavlosGame",
+    "UnityEditor"
+  ],
+  "optionalUnityReferences": [],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "autoReferenced": true
+}
